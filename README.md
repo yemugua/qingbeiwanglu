@@ -11,6 +11,8 @@
 双击「轻备忘录.exe」即可运行。校验文件：`SHA256SUMS.txt`（zip 整包 sha256：
 `3a3587b5d60c42ae7b4a51cf012130417e4123f68999ca2cba2a78fc1915796e`）。
 
+> GitHub Release 附件名为 `qingbeiwanglu-v1.0.0-windows-x64.zip`（GitHub 资产名不支持中文字符，内容与 Gitee 附件完全相同，sha256 一致）。
+
 ## 功能亮点
 
 - **桌面悬浮长条**：半透明竖长条常驻屏幕边缘（默认右下角 240×520），默认**鼠标穿透**——看得见但不会挡操作
